@@ -1,0 +1,26 @@
+{
+  "APIs": {
+    "zenz": "https://zenzapis.xyz",
+    "apikey": "YOURAPIKEY"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "mute": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "sessionName": {
+    "legacy": "/database/rimuru-legacy.json",
+    "multi": "/database/rimuru-multi.json"
+  },
+  "exif": {
+    "packname": "zenzapi",
+    "author": "https://zenzapi.xyz"
+  },
+  "owner": [
+    "62812xxx"
+  ],
+  "timezone": "Asia/Kolkata",
+  "footer": "N3XU5-51R (Insta:-Z3NON)"
+}
